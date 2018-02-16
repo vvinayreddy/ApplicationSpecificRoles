@@ -1,0 +1,17 @@
+---
+- name: install kubernetes master
+  hosts: master
+  become_method: sudo
+  become: yes
+  remote_user: ec2-user
+  roles:
+    - kubernetes-master
+
+- name: install kubernetes master
+  hosts: worker
+  become_method: sudo
+  become: yes
+  remote_user: ec2-user
+  roles:
+    - kubernetes-worker
+

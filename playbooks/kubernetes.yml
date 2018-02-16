@@ -1,0 +1,16 @@
+---
+- name: install kubernetes
+  hosts: master
+  become: yes
+  become_method: sudo
+  become_user: root
+  roles:
+    - kubernetes-master
+
+- name: install kubernetes
+  hosts: worker
+  become: yes
+  become_method: sudo
+  become_user: root
+  roles:
+    - kubernetes-worker
