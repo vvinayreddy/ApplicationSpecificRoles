@@ -5,4 +5,4 @@
 
 #- scm: github
 - src: https://github.com/vvinayreddy/Two-roles-testing
-  name: nginx
+  name: mongodb
