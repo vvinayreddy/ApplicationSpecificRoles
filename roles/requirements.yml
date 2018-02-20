@@ -2,7 +2,7 @@
 - scm: github
   src: https://github.com/vvinayreddy/Two-roles-testing
   name: docker
-  
-# #- scm: github
-# - src: https://github.com/vvinayreddy/Two-roles-testing
-#   name: nginx
+
+- scm: github
+  src: https://github.com/vvinayreddy/Two-roles-testing
+  name: nginx
