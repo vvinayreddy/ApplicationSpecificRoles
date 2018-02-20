@@ -9,6 +9,6 @@
     secure: true
   
   roles:
-    - docker
+    - Docker
     - nginx
   
