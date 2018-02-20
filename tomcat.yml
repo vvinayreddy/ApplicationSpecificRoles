@@ -6,5 +6,5 @@
   become_user: root
   roles:
     - openjdk
-    - tomcat
+    - nginx
  
