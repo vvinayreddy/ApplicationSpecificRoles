@@ -1,8 +1,8 @@
 # from github
 #- scm: github
 - src: https://github.com/vvinayreddy/Two-roles-testing
-  name: docker_role
+  name: docker
 
 # #- scm: github
 - src: https://github.com/vvinayreddy/Two-roles-testing
-  name: mongodb_role
+  name: mongodb

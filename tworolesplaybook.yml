@@ -11,5 +11,5 @@
     amazon_url: "https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-amazon-3.4.2.tgz"
 
   roles:
-    - docker_role
-    - mongodb_role
+    - docker
+    - mongodb
