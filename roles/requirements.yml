@@ -1,6 +1,6 @@
 # from github
 #- scm: github
-- src: https://github.com/vvinayreddy/Two-roles-testing
+- src: https://github.com/vvinayreddy/Two-roles-testing/tree/master/roles/docker
 #   name: docker
 
 # #- scm: github
