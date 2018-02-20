@@ -1,8 +1,8 @@
 # from github
 #- scm: github
-- src: https://github.com/vvinayreddy/Two-roles-testing
+- src: https://github.com/vvinayreddy/Two-roles-testing/tree/master/roles
   name: openjdk
 
 #- scm: github
-- src: https://github.com/vvinayreddy/Two-roles-testing
+- src: https://github.com/vvinayreddy/Two-roles-testing/tree/master/roles
   name: nginx
